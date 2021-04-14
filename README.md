@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adibali
+- 👋 Hi, I’m @Aditya Dave.
 - 👀 I’m interested in Machine Learning, Deep Learning ,Competitive coding and Quantum Computing.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 📫 How to reach me via email id : adidave99@gmail.com
